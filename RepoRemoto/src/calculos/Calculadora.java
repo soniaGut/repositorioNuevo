@@ -1,9 +1,6 @@
 package calculos;
 
 public class Calculadora {
-
-	private int numero1;
-	private int numero2;
 	
 	public Calculadora(int num1, int num2) {
 		numero1 = num1;
